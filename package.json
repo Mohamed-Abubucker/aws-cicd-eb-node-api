@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/simple-node-app"
+    "url": "https://github.com/Mohamed-Abubucker/aws-cicd-eb-node-api"
   },
   "keywords": [],
-  "author": "Luke Mwila",
+  "author": "Mohamed Abubucker",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
