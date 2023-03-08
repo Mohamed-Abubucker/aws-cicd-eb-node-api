@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T09:50:44.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Yk-QOnRtBTygBTLj4i3a" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T09:51:09.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GVcPdUyDRsqFou-tAQR-" version="21.0.2" type="github">
   <diagram name="AWS_SSM_SSO" id="sDcosQPgiZDwW8YW9xRA">
-    <mxGraphModel dx="2714" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="4189" dy="1343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,8 +163,8 @@
         <mxCell id="5bl7u4Xtsho082jTFq0C-44" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Linux user permissions are controlled using &lt;b style=&quot;font-size: 14px;&quot;&gt;SSMSessionRunAs&amp;nbsp;&lt;/b&gt;tag coming from the Principal Resource (SAML assumed role)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-876" y="761" width="446" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5bl7u4Xtsho082jTFq0C-87" value="VCM AWS Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-870" y="116" width="260" height="30" as="geometry" />
+        <mxCell id="5bl7u4Xtsho082jTFq0C-87" value="VCM AWS Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-848" y="100" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5bl7u4Xtsho082jTFq0C-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5bl7u4Xtsho082jTFq0C-95" target="5bl7u4Xtsho082jTFq0C-8">
           <mxGeometry relative="1" as="geometry">
