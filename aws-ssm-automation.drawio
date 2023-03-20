@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T12:13:53.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2gSTEUUhir263ESNiULl" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T12:14:59.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="itTyMx39kmXwp4XE2yol" version="21.0.2" type="github">
   <diagram name="Page-1" id="kNBvir49y5RvbMxRYtU8">
     <mxGraphModel dx="794" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -110,8 +110,8 @@
         <mxCell id="5zbs8pa0OJM7zK-rl6oV-44" value="Managing applications and packages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="-80" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5zbs8pa0OJM7zK-rl6oV-45" value="EC2 AMI" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ami;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="519" y="-10" width="60" height="63" as="geometry" />
+        <mxCell id="5zbs8pa0OJM7zK-rl6oV-45" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ami;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="519" y="-30" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5zbs8pa0OJM7zK-rl6oV-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="5zbs8pa0OJM7zK-rl6oV-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
