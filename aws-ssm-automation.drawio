@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T11:52:34.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-5ivSSffQx1l2bye3f9G" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T12:06:36.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="L8iUG50FAXgvfpG0zY1L" version="21.0.2" type="github">
   <diagram name="Page-1" id="kNBvir49y5RvbMxRYtU8">
     <mxGraphModel dx="794" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -36,6 +36,14 @@
         <mxCell id="5zbs8pa0OJM7zK-rl6oV-5" value="EC2 Image Builder" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2_image_builder;" vertex="1" parent="1">
           <mxGeometry x="510" y="120" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="5zbs8pa0OJM7zK-rl6oV-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5zbs8pa0OJM7zK-rl6oV-7" target="5zbs8pa0OJM7zK-rl6oV-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="93" />
+              <mxPoint x="780" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5zbs8pa0OJM7zK-rl6oV-7" value="Application Inventory" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.inventory;" vertex="1" parent="1">
           <mxGeometry x="283" y="112.5" width="78" height="78" as="geometry" />
         </mxCell>
@@ -45,8 +53,14 @@
         <mxCell id="5zbs8pa0OJM7zK-rl6oV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5zbs8pa0OJM7zK-rl6oV-8" target="5zbs8pa0OJM7zK-rl6oV-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5zbs8pa0OJM7zK-rl6oV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5zbs8pa0OJM7zK-rl6oV-8" target="5zbs8pa0OJM7zK-rl6oV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5zbs8pa0OJM7zK-rl6oV-8" value="AWS Systems Manager" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.systems_manager;" vertex="1" parent="1">
           <mxGeometry x="740" y="510" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="5zbs8pa0OJM7zK-rl6oV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5zbs8pa0OJM7zK-rl6oV-18" target="5zbs8pa0OJM7zK-rl6oV-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5zbs8pa0OJM7zK-rl6oV-18" value="EC2 Instances" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="741.5" y="112.5" width="76.5" height="93" as="geometry" />
@@ -80,6 +94,18 @@
         </mxCell>
         <mxCell id="5zbs8pa0OJM7zK-rl6oV-37" value="AMI Creation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5zbs8pa0OJM7zK-rl6oV-38" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudwatch_2;" vertex="1" parent="1">
+          <mxGeometry x="970" y="120" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="5zbs8pa0OJM7zK-rl6oV-41" value="log steams" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5zbs8pa0OJM7zK-rl6oV-42" value="SSM logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5zbs8pa0OJM7zK-rl6oV-44" value="Managing applications and packages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="60" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
